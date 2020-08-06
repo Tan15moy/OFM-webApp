@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "OFM-web"
+    }
+  },
+  "defaultProject": "OFM-web",
+  "cli": {
+    "analytics": false
+  }
 }
